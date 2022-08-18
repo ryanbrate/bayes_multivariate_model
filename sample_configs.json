@@ -1,0 +1,9 @@
+[
+    {
+        "posterior_p": "posteriors.dosage.posterior_p",
+        "latents_ranges": {"a":[-5,10, 0.05], "b":[-10, 40, 0.05]},
+        "n": 1000,
+        "csv": "~/data/bayes_multivariate_model/dosage_data.csv",
+        "description": "a model"
+    }
+]
